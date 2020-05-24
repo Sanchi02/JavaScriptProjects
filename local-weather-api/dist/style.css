@@ -1,0 +1,34 @@
+h1 {
+	font-family: sans-serif;
+	text-align: center;
+	padding: 2rem;
+	font-size: 1.125rem;
+	line-height: 1.5;
+	transition: all 725ms ease-in-out;
+}
+
+p {
+  font-family: sans-serif;
+	text-align: center;
+  font-size: 1.125rem;
+  float : left;
+  width:50%;
+}
+
+.boxed {
+  margin-top: -3.5%;
+  font-family: sans-serif;
+	text-align: center;
+  font-size: 1.125rem;
+  float : right;
+  width:50%;
+  border-width:5px;  
+  border-style:double;
+  border-color : grey;
+}
+
+.icon {
+  margin-top:-8%;
+  padding-left:50%;
+  padding-right:50%
+}
